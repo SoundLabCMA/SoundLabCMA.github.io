@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "CMA SoundLab"
-  text: "Documentation base for SoundLab."
-  tagline: My great project tagline
+  text: "Documentation base"
+  tagline: Welcome to the CMA SoundLab, a dedicated hub at the Hong Kong University of Science and Technology (Guangzhou) for exploration, creation, and discovery in the world of sound. We provide our community of researchers, students, and collaborators with a professional, accessible space and tools to bring any audio-related research and vision to life—from composition and analysis to instrument design and sonic experimentation. 
   actions:
     - theme: brand
       text: Markdown Examples
